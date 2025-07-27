@@ -96,11 +96,6 @@ print(raz.say_hello())
 
 ## 🏆 Achievements & Certifications
 
-🎓 **Academic Excellence**
-- 🥇 First Class Honors (CGPA: 3.63/4.00)
-- 💰 HEC Need-Based Scholarship (Fully Funded)
-- 💻 Merit-Based Laptop Award - PM's Initiative
-
 📜 **Professional Certifications**
 - 🧠 Deep Learning Specialization - DeepLearning.AI
 - 🤖 Generative AI with LLMs - DeepLearning.AI  
